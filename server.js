@@ -2,7 +2,7 @@ var packagename = 'soundcloud-nodejs-api-wrapper';
 
 NpmSoundcloud = Npm.require(packagename);
 
-Soundcloud = {
+SoundCloud = {
   config: {},
   accessToken: '',
   sc: null,
