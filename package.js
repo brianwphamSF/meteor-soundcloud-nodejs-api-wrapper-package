@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'brianwphamSF:soundcloud-nodejs-api-wrapper',
+  name: 'brianwphamsf:soundcloud-nodejs-api-wrapper',
   summary: 'Meteor wrapper for npm package soundcloud-nodejs-api-wrapper. (Modified to work with Soundcloud OAuth by Brian)',
   version: '0.2.7',
   git: 'https://github.com/brianwphamSF/meteor-soundcloud-nodejs-api-wrapper-package/'
